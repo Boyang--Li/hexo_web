@@ -62,10 +62,7 @@ continue
 * This is list item 5
 
 <p class="description"></p>
-<img src="https://" alt="" style="width:100%" />
+<img src="http://twwhlspls.com/skunk-works/" alt="" style="width:100%" />
 
-##
-##
-##
 <hr />
 

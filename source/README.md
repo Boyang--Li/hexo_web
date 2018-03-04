@@ -1,2 +1,5 @@
 # hexo_web
-Hello world!
+This is my website based on ==[Hexo][1]==.
+
+
+  [1]: https://hexo.io/
