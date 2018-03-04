@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Pilot Hangar
-subtitle: Boyang Li's Website
-description: Boyang Li's personal website about his projects and life.
+title: Boyang's Hangar
+subtitle: Boyang's Website
+description: Stay Hungry, Stay Foolish 
 author: Boyang Li
 language: en
 timezone:
@@ -30,11 +30,11 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -53,9 +53,9 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
-category_map:
-tag_map:
+default_category: 
+category_map: 
+tag_map: 
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
