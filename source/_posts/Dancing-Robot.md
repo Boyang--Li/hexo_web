@@ -3,6 +3,7 @@ title: Dancing Robot
 date: 2011-03-04 13:28:57
 tags: [Undergraduate, Competition]
 categories: project
+updated: 2018-03-04 13:28:57
 ---
 ## Goal 
 The goal of the competition is to build a robot which can dance with music. The music is pre-prepared so the actions of the robot is fixed.
