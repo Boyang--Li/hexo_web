@@ -7,7 +7,15 @@ updated: 2018-04-04 13:32:31
 ---
 ## System Configuration
 
- 
+![](/images/strike1.png) 
+![](/images/strike2.png)
+![](/images/strike3.png) 
+![](/images/strike4.png) 
+![](/images/strike5.png) 
+![](/images/strike6.png) 
+![](/images/strike7.png) 
+![](/images/strike8.png) 
+![](/images/strike9.png)  
 ## Propolsion System
 
 ## Image System
