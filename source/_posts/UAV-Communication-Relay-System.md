@@ -12,4 +12,4 @@ This is a quick summary to the working flow of the system.
 <!-- more -->
 
 ## Publications
-Li, B.; Jiang, Y.; Sun, J.; Cai, L.; Wen, C.-Y.	Development and Testing of a Two-UAV Communication Relay System. Sensors 2016, 16, 1696. Download: http://www.mdpi.com/1424-8220/16/10/1696
+Li, B.; Jiang, Y.; Sun, J.; Cai, L.; Wen, C.-Y.	Development and Testing of a Two-UAV Communication Relay System. Sensors 2016, 16, 1696. <i class="fa fa-download"></i> [Download](http://www.mdpi.com/1424-8220/16/10/1696/pdf)

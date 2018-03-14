@@ -13,8 +13,8 @@ If you want to get more information, you can continue to read.
 ## System Configuration
 
 The basic airfram of this UAV system is a commercial EPO model called Talon.
-![](/images/strike2.png) 
 
+<img src="/images/strike2.png" width = "600" height = "400" alt="title" align=center />
 
 We added many subsystems to the UAV platform to enable the autonomous targets search.
 ![](/images/strike1.png)
@@ -33,7 +33,8 @@ We mounted two camaras on the UAV. The main camera is the GoPro with two-axis gi
 ![](/images/strike7.png) 
 
 This is the map we built for the flight site 
-![](/images/strike9.png)  
+
+<img src="/images/strike9.png" width = "400" height = "600" alt="title" align=center />
 
 ## Propolsion System
 
@@ -43,4 +44,4 @@ This is the map we built for the flight site
 
 
 ## Publications
-Sun, J.; Li, B.; Jiang, Y.; Wen, C.-Y.	A Camera-Based Target Detection and Positioning UAV System for Search and Rescue (SAR) Purposes. Sensors 2016, 16, 1778. http://www.mdpi.com/1424-8220/16/11/1778
+Sun, J.; Li, B.; Jiang, Y.; Wen, C.-Y.	A Camera-Based Target Detection and Positioning UAV System for Search and Rescue (SAR) Purposes. Sensors 2016, 16, 1778. <i class="fa fa-download"></i> [Download](http://www.mdpi.com/1424-8220/16/11/1778/pdf)
