@@ -10,7 +10,7 @@ FJ610, HK PolyU
 Hung Hom, KLN, Hong Kong SAR
 
 
-<i class="fa fa-envelope"></i>[Email][1] &emsp;&emsp;  <i class="fa fa-google"></i> [Google Scholar] [3]&emsp;&emsp;<i class="fa fa-download"></i> [CV] [2]
+<i class="fa fa-envelope"></i> [Email][1]&emsp;&emsp;<i class="fa fa-google"></i> [Google Scholar][3]&emsp;&emsp;<i class="fa fa-download"></i> [CV][2]
 
 {% cq %}
 Stay Hungry, Stay Foolish.
