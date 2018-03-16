@@ -10,6 +10,10 @@ image:
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYevywwGgjQ" frameborder="0" allowfullscreen></iframe>
 
+This is the main topic for my PhD thesis.
+The aim of this project is to disign and optimize a VTOL tail-sitter UAV.
+
+
 <img src="https://" alt="" style="width:100%" />
 <!-- more -->
 ##
