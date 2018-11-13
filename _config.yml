@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Boyang's Hangar
+title: Boyang's Website
 subtitle: Boyang's Website
 description: Stay Hungry, Stay Foolish 
 author: Boyang Li
 language: en
-timezone:
+timezone: Asia/Hong_Kong
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -40,7 +40,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
   
 # Home page setting
@@ -61,7 +61,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: DD-MM-YYYY
+date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
 # Pagination
