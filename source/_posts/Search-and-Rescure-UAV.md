@@ -5,8 +5,10 @@ tags: [PhD, Competition]
 categories: project
 updated: 2018-04-04 13:32:31
 ---
-The video is a good summary for this work and the competition.
+We have developed a fixed-wing UAV system to take part in the Search and Rescure category of Taiwan UAV competition. The video is a good summary for this work and the competition.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK2kLsNICog?list=PLExhUFMJ8R20t3anCNDYLnFilz3u3lc0S" frameborder="0" allowfullscreen></iframe>
+
 If you want to get more information, you can continue to read.
 <!-- more -->
 
@@ -14,23 +16,23 @@ If you want to get more information, you can continue to read.
 
 The basic airfram of this UAV system is a commercial EPO model called Talon.
 
-<img src="/images/strike2.png" width = "600" height = "400" alt="title" align=center />
+<img src="/images/strike2.png" width = "300" height = "200" alt="title" align=center />
 
 We added many subsystems to the UAV platform to enable the autonomous targets search.
-![](/images/strike1.png)
+<img src="/images/strike1.png" width = "300" height = "200" alt="title" align=center />
 
 The airspeed sensor is mounted on a pretty 3D-printing sit.
-![](/images/strike3.png) 
+<img src="/images/strike1.png" width = "50%" height = "50%" alt="title" align=center />
 
 The Automatic Antana Tracker(AAT) is used to extent the communication range of the 433MHz temelemtry system.
-![](/images/strike4.png) 
+<img src="/images/strike4.png" width = "50%" height = "50%" alt="title" align=center />
 
 
 This figure shows the navigation turning results in Yuan Lung test site.
-![](/images/strike6.png) 
+<img src="/images/strike6.png" width = "50%" height = "50%" alt="title" align=center />
 
 We mounted two camaras on the UAV. The main camera is the GoPro with two-axis gimbal.
-![](/images/strike7.png) 
+<img src="/images/strike7.png" width = "50%" height = "50%" alt="title" align=center />
 
 This is the map we built for the flight site 
 
