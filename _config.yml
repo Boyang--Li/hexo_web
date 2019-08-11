@@ -146,7 +146,7 @@ theme_config:
   # Set rss to false to disable feed link.
   # Leave rss as empty to use site's feed link, and install hexo-generator-feed: `npm install hexo-generator-feed --save`.
   # Set rss to specific value if you have burned your feed already.
-  rss: /atom.xml
+  rss: false
 
   footer:
     # Specify the date when the site was setup.
@@ -832,7 +832,7 @@ theme_config:
   # Local search
   # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
   local_search:
-    enable: true
+    enable: false
     # if auto, trigger search by changing input
     # if manual, trigger search by pressing enter key or search button
     trigger: auto
