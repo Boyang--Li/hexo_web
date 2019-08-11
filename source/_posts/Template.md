@@ -1,13 +1,13 @@
 ---
-title: test2
-date: 2015-03-03 19:25:13
+title: template
+date: 2001-01-01 19:25:13
 tags: [read, travel, life]
-categories: travel
-description: descrip
+categories: 
+description: template
 image:
 ---
 
-Hello this is the second test
+Hello this is the template for me to generate posts.
 This is the first line.
 
 ## Title 1 ##

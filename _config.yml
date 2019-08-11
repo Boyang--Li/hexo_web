@@ -170,11 +170,11 @@ theme_config:
       # Hexo link (Powered by Hexo).
       enable: true
       # Version info of Hexo after Hexo link (vX.X.X).
-      version: true
+      version: false
 
     theme:
       # Theme & scheme info link (Theme - NexT.scheme).
-      enable: false
+      enable: true
       # Version info of NexT after scheme info (vX.X.X).
       version: false
     # -------------------------------------------------------------
@@ -539,7 +539,7 @@ theme_config:
 
   # Math Equations Render Support
   math:
-    enable: false
+    enable: true
 
     # Default(true) will load mathjax/katex script on demand
     # That is it only render those page who has 'mathjax: true' in Front Matter.
