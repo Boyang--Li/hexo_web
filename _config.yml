@@ -8,7 +8,7 @@ subtitle: Boyang's Website
 description: Stay Hungry, Stay Foolish 
 author: Boyang Li
 language: en
-timezone: Asia/Hong_Kong
+timezone: Europe/London
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -71,6 +71,7 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins: hexo-generate-feed
 ## Themes: https://hexo.io/themes/
 theme: next
 
@@ -192,7 +193,7 @@ theme_config:
   # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
   creative_commons:
     license: by-nc-sa
-    sidebar: false
+    sidebar: true
     post: false
 
 
@@ -275,9 +276,10 @@ theme_config:
     #FB Page: https://www.facebook.com/yourname || facebook
     #VK Group: https://vk.com/yourname || vk
     #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
-    YouTube: https://www.youtube.com/channel/UCZXSWqXsMGp6y3_vpX8svqQ  || youtube
+    #YouTube: https://www.youtube.com/channel/UCZXSWqXsMGp6y3_vpX8svqQ  || youtube
     #Instagram: https://instagram.com/yourname || instagram
     #Skype: skype:yourname?call|chat || skype
+    Linkedin: https://www.linkedin.com/in/boyang-li-10398480 || linkedin
 
   social_icons:
     enable: true
@@ -671,21 +673,21 @@ theme_config:
   #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
   #           Evernote,Friendfeed,Vkontakte,Odnoklassniki,Mailru
   needmoreshare2:
-    enable: false
+    enable: true
     postbottom:
-      enable: false
+      enable: true
       options:
         iconStyle: box
         boxForm: horizontal
         position: bottomCenter
-        networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+        networks: Weibo,Wechat,Twitter,Facebook,Linkedin
     float:
-      enable: false
+      enable: true
       options:
         iconStyle: box
         boxForm: horizontal
         position: middleRight
-        networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+        networks: Weibo,Wechat,Twitter,Facebook,Linkedin
 
   # Google Webmaster tools verification setting
   # See: https://www.google.com/webmasters
