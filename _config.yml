@@ -298,7 +298,8 @@ theme_config:
   links_layout: block
   #links_layout: inline
   links:
-    PolyU Group: http://www.mypolyuweb.hk/cywen/
+    PolyU HTML Group: http://www.mypolyuweb.hk/cywen/
+    Soft Systems Group: https://softsystemsgroup.com/
 
   # Sidebar Avatar
   avatar:
