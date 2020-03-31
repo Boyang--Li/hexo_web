@@ -33,12 +33,12 @@ continue
 - <i class="fa fa-download"></i> 下载
 
 
-{% cq %}
+<!-- {% cq %}
 人生乃是一面镜子，
 从镜子里认识自己，
 我要称之为头等大事，
 也只是我们追求的目的！
-{% endcq %}
+{% endcq %} -->
 
 <center>内容</center>
 

@@ -5,11 +5,11 @@ tags: PX4
 categories: reading
 ---
 
-
 Today, I am going to deeply analysis the multi-rotor attitude control code in PX4. 
 On one hand, I need to know the full process about the flight controller.
 
 # Files List
+
 路径：Firmware/src/modules/mc_att_control/
 
 文件：1. CMakeLists.txt, 2. mc_att_control_main.cpp, 3. mc_att_control_params.c
@@ -17,18 +17,18 @@ On one hand, I need to know the full process about the flight controller.
 
 ## CMakeLists.txt （给Cmake提供信息？）
 
-```
+```bash
 px4_add_module(
-	MODULE modules__mc_att_control
-	MAIN mc_att_control
-	STACK_MAIN 1200
-	STACK_MAX 3500
-	COMPILE_FLAGS
-	SRCS
-		mc_att_control_main.cpp
-	DEPENDS
-		platforms__common
-	)
+    MODULE modules__mc_att_control
+    MAIN mc_att_control
+    STACK_MAIN 1200
+    STACK_MAX 3500
+    COMPILE_FLAGS
+    SRCS
+        mc_att_control_main.cpp
+    DEPENDS
+        platforms__common
+    )
 ```
 
 ## mc_att_control_params.c （姿态控制所需要的所有参数）
@@ -50,7 +50,6 @@ px4_add_module(
 |-                          |-                               | -                      |
 | TPA P/I/D Breakpoint      | Throttle PID Attenuation (TPA) | (MC_TPA_BREAK_P, 1.0f) |
 | TPA Rate P/I/D  | Throttle PID Attenuation (TPA)  |  (MC_TPA_RATE_P, 0.0f)|
-
 
 ## mc_att_control_main.cpp （姿态控制控制率）
 
