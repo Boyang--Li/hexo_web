@@ -1,11 +1,11 @@
 ---
-title: Search and Rescure UAV System
+title: Search and Rescue UAV System 'PolyU Strike'
 date: 2016-04-04 13:32:31
 tags: [PhD, Competition]
 categories: project
 updated: 2018-04-04 13:32:31
 ---
-We have developed a fixed-wing UAV system to take part in the Search and Rescure category of Taiwan UAV competition. The video is a good summary for this work and the competition.
+We have developed a fixed-wing UAV system to take part in the Search and Rescue category of Taiwan UAV competition. The video is a good summary for this work and the competition.
 
 <img src="/images/strike1.jpg" width = "600" height = "400" alt="title" align=center />
 
