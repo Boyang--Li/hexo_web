@@ -4,8 +4,6 @@ tags: [travel]
 date: 2018-03-16 15:31:35
 updated: 2019-08-11 15:31:35
 categories: travel
-description:
-image:
 ---
 This is the first time I arrive the South Planet.
 <!-- more -->

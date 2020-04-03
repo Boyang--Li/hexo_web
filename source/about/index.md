@@ -12,8 +12,6 @@ University of Edinburgh
 
 {% cq %} Stay Hungry, Stay Foolish. {% endcq %}
 
-<hr />
-
-  [1]: mailto:boyang.li@ed.ac.uk
-  [2]: /CV.pdf
-  [3]: https://scholar.google.com.hk/citations?user=a-W1DTIAAAAJ&hl=en
+[1]: mailto:lbynwpu@gmail.com
+[2]: /CV.pdf
+[3]: https://scholar.google.com.hk/citations?user=a-W1DTIAAAAJ&hl=en
